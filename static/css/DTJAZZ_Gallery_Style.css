@@ -1,0 +1,23 @@
+@font-face {
+	font-family: Lato;
+	src: url(../fonts/Lato-Light.ttf);
+	font-weight: lighter;
+}
+
+body{
+	background-color: #191717;
+	color: #D7DAD8;
+	font-family: Lato !important;
+}
+
+footer {
+	height: 35px;
+	font-size: .85em;
+	position: fixed;
+	bottom: 0;
+	vertical-align: middle;
+	text-align: center;
+	background-color: rgba(82,68,122,0.9);
+	width: 100%;
+	padding-top: 5px;
+}
